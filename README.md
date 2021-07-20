@@ -1,9 +1,8 @@
 
-# Multi-decadal land-use impacts across the vast range of an iconic threatened species
+## Multi-decadal land-use impacts across the vast range of an iconic threatened species
 
-## Diversity and Distributions
-## Christian Devenish, Alexander C. Lees, Nigel J. Collar, Stuart J. Marsden
-
+### Diversity and Distributions
+### Christian Devenish, Alexander C. Lees, Nigel J. Collar, Stuart J. Marsden
 
 ### Scripts with details of analysis:
 
