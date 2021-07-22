@@ -27,7 +27,7 @@ wgs <- 4326
 
 
 ### Load occurrence points
-allRecs <- read.csv("data/Table_S1b_Supp_Info.csv")
+allRecs <- read.csv("data/Table_S1b.csv")
 head(allRecs)
 str(allRecs)
 
